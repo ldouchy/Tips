@@ -1,8 +1,6 @@
 # TipsLinux
 Tips and Tricks Linux
 
-
-
 Awk:
 
   Extracting characters of a string:
