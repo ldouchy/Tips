@@ -1,5 +1,5 @@
-# Tips
-Tips and tricks Linux
+# TipsLinux
+Tips and Tricks Linux
 
 
 
