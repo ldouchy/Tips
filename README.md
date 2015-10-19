@@ -13,7 +13,7 @@ Awk:
     te
     
 
-Bash
+Bash:
 
   Extracting characters of a string:
     ${string:position:length}
