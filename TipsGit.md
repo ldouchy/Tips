@@ -13,7 +13,7 @@ Update remote repo:
 
     $ git push origin master
 
-Retrieve changes:
+Retrieve changes
 
 Working tree status:
 
