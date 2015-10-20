@@ -32,6 +32,12 @@ Bash:
 
     cmd > file 2>&1
 
+  Retrieve IP adress:
+    
+    Fedora 22:
+    
+      ifconfig eno1 | grep inet | awk '{print $2}'
+
 Sed:
 
   Find and replace inline:

@@ -1,4 +1,4 @@
-# TipsLinux
+# TipsRPi
 Tips and Tricks Raspberry Pi 2
 
 
