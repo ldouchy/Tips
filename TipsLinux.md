@@ -19,3 +19,24 @@ Bash:
     Example:
     $ STRING=test ; echo ${STRING:0:2}
     te
+
+  Redirect stdin:
+
+    cmd > file
+
+  Redirect error:
+
+    cmd 2> file
+
+  Redirect stdin and error:
+
+    cmd > file 2>&1
+
+Sed:
+
+  Find and replace inline:
+
+    sed -i 's/FIND/REPLACE/g' file
+
+    /!\ In case of variable usage:
+    sed -i "s/FIND/${REPLACE}/" file
